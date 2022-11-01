@@ -1,10 +1,10 @@
-<div>
+
   ### 전보연의 Github 프로필 🌷
-<div/>
+
 
 <hr/>
   
-<div>
+
   ## 사용 프로그램
   <p>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
@@ -16,8 +16,7 @@
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=Markdown&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a> -->
-  </p>  
-</div>
+  </p>
 
 
 ## 🌖 프레임워크 & 라이브러리
