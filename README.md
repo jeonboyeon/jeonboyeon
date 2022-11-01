@@ -1,4 +1,4 @@
-## 😋 안녕하세요. 코딩핥는 전보연입니다.
+### 전보연의 Github 프로필 🌷
 
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
