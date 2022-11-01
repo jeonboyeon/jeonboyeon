@@ -1,4 +1,5 @@
 ### 전보연의 Github 프로필 🌷
+<hr/>
 
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
