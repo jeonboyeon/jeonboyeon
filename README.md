@@ -1,6 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />  
 
-![header](https://Jeon Boyeon Github.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=50)
-  
   ### 전보연의 Github 프로필 🌷
 
 
