@@ -1,5 +1,15 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=50)
+{
+        "idx": 30,
+        "color": {
+            "0" : "5433FF",
+            "50" : "20BDFF",
+            "100" : "A5FECB"
+        },
+        "text": "f7f5f5",
+        "textBg": "282829"
+    }
+![header](https://Jeon Boyeon Github.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=50)
   
   ### 전보연의 Github 프로필 🌷
 
