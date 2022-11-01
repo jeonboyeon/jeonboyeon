@@ -35,4 +35,4 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </p>
 
-<img src="http://mazandi.herokuapp.com/api?handle={}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=jeonboyeon&theme=silver1"/>
