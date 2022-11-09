@@ -8,3 +8,5 @@
 
 ## REACT API
 <a href="https://jby-react-api.netlify.app">REACT API GO!</a>
+## VUE CLASS
+<a href="https://vueclass.netlify.app/">VUE CLASS CO!</a>
